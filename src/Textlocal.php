@@ -1,5 +1,6 @@
 <?php
 namespace CodeFoxes\Textlocal;
+use \Exception;
 
 /**
  * Textlocal API2 Wrapper Class

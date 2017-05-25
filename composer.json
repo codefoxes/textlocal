@@ -1,6 +1,7 @@
 {
     "name": "codefoxes/textlocal",
     "description": "Textlocal composer package",
+    "homepage": "https://github.com/codefoxes/textlocal",
     "authors": [
         {
             "name": "Karthik Bhat",
@@ -14,5 +15,7 @@
         "psr-4": {
             "CodeFoxes\\Textlocal\\": "src/"
         }
-    }
+    },
+    "license": "BSD-3-Clause",
+    "minimum-stability": "dev"
 }
