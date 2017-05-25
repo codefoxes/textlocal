@@ -1,0 +1,16 @@
+{
+    "name": "codefoxes/textlocal",
+    "description": "Textlocal composer package",
+    "authors": [
+        {
+            "name": "Karthik Bhat",
+            "email": "dev@codefoxes.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "CodeFoxes\\Textlocal\\": "src/"
+        }
+    }
+}
